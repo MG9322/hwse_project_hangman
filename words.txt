@@ -1,0 +1,10 @@
+!Hausschuh
+!Katze
+?Popcorn
+?Fachhochschule
+?Technikum
+?Wien
+!Informatik
+?Softwareentwicklung
+?Programmieren
+?
